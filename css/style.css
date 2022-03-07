@@ -1,0 +1,41 @@
+
+
+.nav-link {
+  color: black;
+  
+}
+
+
+
+
+.container-fluid {
+  border: black 2px solid;
+  background-color: bisque;
+}
+
+
+.col {
+  border: black 2px solid; 
+  background-color: blue;   
+}
+
+.col {
+  border: black 2px solid; 
+  background-color: yellow;
+}
+
+.footer {
+  padding-top: 20px;
+  text-align: center;
+  background-color: aqua;
+  
+}
+
+
+
+
+
+
+
+
+
